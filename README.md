@@ -5,7 +5,7 @@ To develop a Django application to store and retrieve data from a database using
 
 ## Entity Relationship Diagram
 
-![er diagram](./dataproject/images/er%20diagram.png)
+![project](./dataproject/images/my%20project.png-1.png)
 
 
 ## DESIGN STEPS
@@ -49,7 +49,7 @@ class TrainAdmin(admin.ModelAdmin):
 
 ![admin.py](./dataproject/images/adminpy.png)
 
-![admin.py](./dataproject/images/trainbookingapp%20output.png)
+![output](./dataproject/images/trainbookingapp%20output.png)
 
 
 ## RESULT: 
