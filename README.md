@@ -49,6 +49,7 @@ class TrainAdmin(admin.ModelAdmin):
 
 ![admin.py](./dataproject/images/adminpy.png)
 
+![admin.py](./dataproject/images/trainbookingapp%20output.png)
 
 
 ## RESULT: 
